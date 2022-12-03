@@ -1,0 +1,9 @@
+@font-face {
+    font-family: cool;
+    src: url(cool.ttf);
+
+}
+
+h1 {
+    font-family: cool;
+}
